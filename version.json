@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
+    "versionCode": 6,
     "versionName": "1.5",
-    "downloadUrl": "https://github.com/Gemini12395/GeminiMusic/releases/download/v1.5/GeminiMusic-v1.5.apk",
+    "downloadUrl": "https://github.com/Gemini12395/GeminiMusic/releases/download/v1.5/GeminiMusic-v1.5-github-update.apk",
     "releaseNotes": "GitHub 双源更新推送 + 液态玻璃界面",
     "forceUpdate": false
 }
