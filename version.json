@@ -1,7 +1,7 @@
 {
-    "versionCode": 6,
-    "versionName": "1.5",
-    "downloadUrl": "https://github.com/Gemini12395/GeminiMusic/releases/download/v1.5/GeminiMusic-v1.5-github-update.apk",
-    "releaseNotes": "GitHub 双源更新推送 + 液态玻璃界面",
-    "forceUpdate": false
+      "versionCode": 9,
+      "versionName": "1.8",
+      "downloadUrl": "https://github.com/Gemini12395/GeminiMusic/releases/download/v1.8/GeminiMusic-v1.8.apk",
+      "releaseNotes": "Liquid Glass 设计 + 通知推送修复",
+      "forceUpdate": false
 }
