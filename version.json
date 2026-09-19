@@ -1,7 +1,7 @@
 {
-      "versionCode": 9,
-      "versionName": "1.8",
-      "downloadUrl": "https://github.com/Gemini12395/GeminiMusic/releases/download/v1.8/GeminiMusic-v1.8.apk",
-      "releaseNotes": "Liquid Glass 设计 + 通知推送修复",
-      "forceUpdate": false
+        "versionCode": 9,
+        "versionName": "1.8",
+        "downloadUrl": "https://github.com/Gemini12395/GeminiMusic/releases/download/v1.8/GeminiMusic-v1.8-update-fix.apk",
+        "releaseNotes": "Liquid Glass 设计 + 通知推送修复",
+        "forceUpdate": false
 }
